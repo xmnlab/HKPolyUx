@@ -1,0 +1,8 @@
+.block-note {
+    margin: 10px;
+    padding:20px;
+    background:#DFDFDF;
+    border:1px #CCCCCC solid;
+    color: #333333;
+    font-style: italic;
+}
